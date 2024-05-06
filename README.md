@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Stat 999
+title: "Stat 159: Reproducible and Collaborative Statistical Data Science"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 999
+  name: "Stat 159: Reproducible and Collaborative Statistical Data Science"
 ---
 
-# Short Title of Class
+# Stat 159: Reproducible and Collaborative Statistical Data Science
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
@@ -20,36 +20,19 @@ UC Berkeley
 
 [//]: # (Notably the paths should not have leading slashes in real sites.)
 
-1. [Spring 2023 (Quarto)](/stat999-quarto)
-1. [Fall 2024 (MyST)](/stat999-myst)
+1. [Fall 2015](http://www.jarrodmillman.com/stat159-fall2015)
+1. [Spring 2015](/spring-2015)
+1. [Fall 2014](https://github.com/ucb-stat-157/fall-2014-public)
+1. [Fall 2013](https://github.com/stat157/fall-2013)
 
 ## Overview
 
-This is a GitHub Pages template based on Just the Class, developed for the purpose of quickly deploying course overview websites. Such websites link to previous course offerings, provide a summary of what the course is about, and may list learning goals and prerequisites. This paragraph would normally be replaced by an overview of a specific course, and could include information from the [Berkeley Academic Guide](https://guide.berkeley.edu/courses/stat/).
+A project-based introduction to statistical data analysis. Through case studies, computer laboratories, and a term project, students will learn practical techniques and tools for producing statistically sound and appropriate, reproducible, and verifiable computational answers to scientific questions. Course emphasizes version control, testing, process automation, code review, and collaborative programming. Software tools may include Bash, Git, Python, and LaTeX.
 
-When instantiating this template, change:
+## Logistics
 
-  - `README.md`
-    - the `title` and `name` fields in the frontmatter
-    - the "Short Title of Class" heading to be the course name followed by its title in the Academic Guide, e.g. "Stat 555: Adventures in Class Websites"
-    - add an initial entry in the Offerings section
-    - the Overview section and Prequisites, based on content in the [Academic Guide](https://guide.berkeley.edu/courses/stat/)
-
-  - `_config.yml`
-    - Set `baseurl` to be the empty string, ''.
-    - Set `url` to be the institutional address, e.g. https://stat555.stat.berkeley.edu
-
-## Goals
-
-- **Do** list some goals for the course here.
-
-- **Or do not** list some goals.
-
-- **Decide** if this section is relevant.
+Three hours of lecture and two hours of laboratory per week. 
 
 ## Prerequisites
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites:
 
-1. **Name of First Class:** Stat 555 covers important things.
-
-1. **Some Other Class:** Stat 777 covers other topics.
+Statistics 133, Statistics 134, and Statistics 135 (or equivalent).
