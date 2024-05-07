@@ -21,9 +21,7 @@ UC Berkeley
 [//]: # (Notably the paths should not have leading slashes in real sites.)
 
 1. [Fall 2015](http://www.jarrodmillman.com/stat159-fall2015)
-1. [Spring 2015](/spring-2015)
-1. [Fall 2014](https://github.com/ucb-stat-157/fall-2014-public)
-1. [Fall 2013](https://github.com/stat157/fall-2013)
+1. [Spring 2015](https://github.com/berkeley-stat159/spring-2015)
 
 ## Overview
 
