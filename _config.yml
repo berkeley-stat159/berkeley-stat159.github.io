@@ -16,13 +16,13 @@
 title: "Stat 159: Reproducible and Collaborative Statistical Data Science"
 tagline: Course Overview
 description: "A project-based introduction to statistical data analysis. Through case studies, computer laboratories, and a term project, students will learn practical techniques and tools for producing statistically sound and appropriate, reproducible, and verifiable computational answers to scientific questions. Course emphasizes version control, testing, process automation, code review, and collaborative programming. Software tools may include Bash, Git, Python, and LaTeX."
-author: SCF
+author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat159.berkeley.edu'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: 'resources/stat_bear.png'
+logo: 'resources/logo.png'
 
-ga_tracking: G-9WGSSSCWQ5
+ga_tracking: "G-"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0
