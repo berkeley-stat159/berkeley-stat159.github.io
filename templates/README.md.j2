@@ -1,0 +1,35 @@
+---
+layout: home
+title: "{{ course.subjectArea.code | format_subject_area_code_cap }} {{ course.catalogNumber.formatted | format_catalog_number }}: {{ course.title }}"
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Course
+  name: "{{ course.subjectArea.code | format_subject_area_code_cap }} {{ course.catalogNumber.formatted | format_catalog_number }}: {{ course.title }}"
+---
+
+# {{ course.subjectArea.code | format_subject_area_code_cap }} {{ course.catalogNumber.formatted | format_catalog_number }}: {{ course.title }}
+{: .mb-2 }
+UC Berkeley
+{: .mb-0 .fs-6 .text-grey-dk-000 }
+
+
+{% if offerings %}
+## Offerings
+
+{{ offerings}}
+
+{% endif %}
+
+## Overview
+
+{{ course.description }}
+
+## Logistics
+
+{{ course.formatsOffered.description }}
+
+## Prerequisites
+
+{{ course.preparation.requiredText }}
+
