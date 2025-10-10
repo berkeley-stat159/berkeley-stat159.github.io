@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2025](https://stat159.berkeley.edu/fall-2025)
 1. [Spring 2023](https://ucb-stat-159-s23.github.io/site)
 1. [Spring 2022](https://ucb-stat-159-s22.github.io/site)
 1. [Spring 2021](https://ucb-stat-159-s21.github.io/site)
